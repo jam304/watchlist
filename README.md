@@ -4,7 +4,6 @@ Example application for flask tutorial
 ## Installtion
 
 ```
-git clone https://github.com/mazhenting/watchlist.git
 cd watchlist
 python -m venv venv
 source venv/Scripts/activate
